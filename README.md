@@ -5,7 +5,7 @@ Site criado a partir das aulas do Gustavo Guanabara do Curso em Vídeo. Acrescen
 
 ## 🎨 Layout
 
-![image](image)
+![image](https://github.com/marianamoiolicapelari/relogio-criativo/blob/main/Layoult.png)
 
 ## 🛠 Tecnologias
 
@@ -17,7 +17,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 💡 Como executar o projeto
 
-Esse projeto foi elaborado para web e mobile. Para acessar basta clicar no link abaixo:
+Esse projeto foi elaborado para web e mobile. Toda vez que é carregada a página ele mostra a hora e identifica qual o período do dia em que estamos. Para acessar basta clicar no link abaixo:
 
 https://relogiocriativo.netlify.app/
 
